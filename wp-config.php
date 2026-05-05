@@ -24,10 +24,10 @@
 // בדיקה האם אנחנו רצים ב-Wasmer או בלוקאל
 // if ( isset($_ENV['DB_NAME']) ) {
     /** הגדרות עבור Wasmer Edge **/
-    define( 'DB_NAME', $_ENV['DB_NAME'] );
-    define( 'DB_USER', $_ENV['DB_USERNAME'] );
-    define( 'DB_PASSWORD', $_ENV['DB_PASSWORD'] );
-    define( 'DB_HOST', $_ENV['DB_HOST'] );
+ define( 'DB_NAME',     getenv('DB_NAME') );
+define( 'DB_USER',     getenv('DB_USERNAME') ); // השם המדויק מהתמונה שלך
+define( 'DB_PASSWORD', getenv('DB_PASSWORD') );
+define( 'DB_HOST',     getenv('DB_HOST') );
 // } else {
     /** הגדרות עבור Local Sites המקומי **/
     // define( 'DB_NAME', 'local' );
