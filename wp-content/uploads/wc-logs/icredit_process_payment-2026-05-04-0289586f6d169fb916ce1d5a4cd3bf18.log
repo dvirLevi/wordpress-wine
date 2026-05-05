@@ -1,0 +1,274 @@
+2026-05-04T12:50:09+00:00 NOTICE Charge Response CONTEXT: {"_legacy":true}
+2026-05-04T12:50:09+00:00 NOTICE Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => application/json; charset=utf-8
+                    [server] => 
+                    [access-control-allow-origin] => *
+                    [strict-transport-security] => max-age=31536000; includeSubdomains
+                    [content-security-policy] => default-src https: data: 'unsafe-inline' 'unsafe-eval'
+                    [x-xss-protection] => 1; mode=block
+                    [x-content-type-options] => nosniff
+                    [x-aspnet-version] => 
+                    [date] => Mon, 04 May 2026 12:50:37 GMT
+                    [content-length] => 306
+                )
+
+        )
+
+    [body] => {"DebugMessage":null,"PrivateSaleToken":"82e25633-5b1b-4ab1-9dff-c97d9945cb1a","PublicSaleToken":"afbaebf2-519d-4ce2-8bb8-4739cd564c15","Status":0,"URL":"https:\/\/testicredit.rivhit.co.il\/payment\/PaymentItems.aspx?GroupId=d0606ed0-b961-47f3-be4f-0c694442cb0d&Token=afbaebf2-519d-4ce2-8bb8-4739cd564c15"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"DebugMessage":null,"PrivateSaleToken":"82e25633-5b1b-4ab1-9dff-c97d9945cb1a","PublicSaleToken":"afbaebf2-519d-4ce2-8bb8-4739cd564c15","Status":0,"URL":"https:\/\/testicredit.rivhit.co.il\/payment\/PaymentItems.aspx?GroupId=d0606ed0-b961-47f3-be4f-0c694442cb0d&Token=afbaebf2-519d-4ce2-8bb8-4739cd564c15"}
+                    [raw] => HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Server: 
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-ASPNET-VERSION: 
+Date: Mon, 04 May 2026 12:50:37 GMT
+Connection: close
+Content-Length: 306
+
+{"DebugMessage":null,"PrivateSaleToken":"82e25633-5b1b-4ab1-9dff-c97d9945cb1a","PublicSaleToken":"afbaebf2-519d-4ce2-8bb8-4739cd564c15","Status":0,"URL":"https:\/\/testicredit.rivhit.co.il\/payment\/PaymentItems.aspx?GroupId=d0606ed0-b961-47f3-be4f-0c694442cb0d&Token=afbaebf2-519d-4ce2-8bb8-4739cd564c15"}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json; charset=utf-8
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => 
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubdomains
+                                        )
+
+                                    [content-security-policy] => Array
+                                        (
+                                            [0] => default-src https: data: 'unsafe-inline' 'unsafe-eval'
+                                        )
+
+                                    [x-xss-protection] => Array
+                                        (
+                                            [0] => 1; mode=block
+                                        )
+
+                                    [x-content-type-options] => Array
+                                        (
+                                            [0] => nosniff
+                                        )
+
+                                    [x-aspnet-version] => Array
+                                        (
+                                            [0] => 
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Mon, 04 May 2026 12:50:37 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 306
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://testicredit.rivhit.co.il/API/PaymentPageRequest.svc/GetUrl
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+ CONTEXT: {"_legacy":true}
+2026-05-04T12:53:16+00:00 NOTICE Charge Response CONTEXT: {"_legacy":true}
+2026-05-04T12:53:16+00:00 NOTICE Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => application/json; charset=utf-8
+                    [server] => 
+                    [access-control-allow-origin] => *
+                    [strict-transport-security] => max-age=31536000; includeSubdomains
+                    [content-security-policy] => default-src https: data: 'unsafe-inline' 'unsafe-eval'
+                    [x-xss-protection] => 1; mode=block
+                    [x-content-type-options] => nosniff
+                    [x-aspnet-version] => 
+                    [date] => Mon, 04 May 2026 12:53:44 GMT
+                    [content-length] => 306
+                )
+
+        )
+
+    [body] => {"DebugMessage":null,"PrivateSaleToken":"8125aa22-5a9e-4e6f-9bb2-92664611648a","PublicSaleToken":"3b96682b-1f98-481b-8948-79febbd13fd8","Status":0,"URL":"https:\/\/testicredit.rivhit.co.il\/payment\/PaymentItems.aspx?GroupId=d0606ed0-b961-47f3-be4f-0c694442cb0d&Token=3b96682b-1f98-481b-8948-79febbd13fd8"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"DebugMessage":null,"PrivateSaleToken":"8125aa22-5a9e-4e6f-9bb2-92664611648a","PublicSaleToken":"3b96682b-1f98-481b-8948-79febbd13fd8","Status":0,"URL":"https:\/\/testicredit.rivhit.co.il\/payment\/PaymentItems.aspx?GroupId=d0606ed0-b961-47f3-be4f-0c694442cb0d&Token=3b96682b-1f98-481b-8948-79febbd13fd8"}
+                    [raw] => HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Server: 
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-ASPNET-VERSION: 
+Date: Mon, 04 May 2026 12:53:44 GMT
+Connection: close
+Content-Length: 306
+
+{"DebugMessage":null,"PrivateSaleToken":"8125aa22-5a9e-4e6f-9bb2-92664611648a","PublicSaleToken":"3b96682b-1f98-481b-8948-79febbd13fd8","Status":0,"URL":"https:\/\/testicredit.rivhit.co.il\/payment\/PaymentItems.aspx?GroupId=d0606ed0-b961-47f3-be4f-0c694442cb0d&Token=3b96682b-1f98-481b-8948-79febbd13fd8"}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json; charset=utf-8
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => 
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubdomains
+                                        )
+
+                                    [content-security-policy] => Array
+                                        (
+                                            [0] => default-src https: data: 'unsafe-inline' 'unsafe-eval'
+                                        )
+
+                                    [x-xss-protection] => Array
+                                        (
+                                            [0] => 1; mode=block
+                                        )
+
+                                    [x-content-type-options] => Array
+                                        (
+                                            [0] => nosniff
+                                        )
+
+                                    [x-aspnet-version] => Array
+                                        (
+                                            [0] => 
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Mon, 04 May 2026 12:53:44 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 306
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://testicredit.rivhit.co.il/API/PaymentPageRequest.svc/GetUrl
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+ CONTEXT: {"_legacy":true}

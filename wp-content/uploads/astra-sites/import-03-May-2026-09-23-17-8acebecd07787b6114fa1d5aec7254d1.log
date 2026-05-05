@@ -1,0 +1,78 @@
+
+[09:23:35 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":129,"offset":"80","chunk_size":10}
+[09:23:35 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"80"}
+[09:23:35 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3961,"file":"diabetic-cookies.jpg"}
+[09:23:36 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":3962,"file":"edible-oil.jpg"}
+[09:23:36 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":4204,"file":"basil-leaf-1.png"}
+[09:23:37 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":4210,"file":"organic-honey.jpg"}
+[09:23:37 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":4218,"file":"diabetic-cookies.jpg"}
+[09:23:38 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":4259,"file":"organic-store-social.jpg"}
+[09:23:38 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":4484,"file":"demo-screenshot.jpg"}
+[09:23:39 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5068,"file":"sydney-rae-668606-unsplash-1-scaled.jpg"}
+[09:23:43 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5069,"file":"sydney-rae-668606-unsplash-2-scaled.jpg"}
+[09:23:46 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5070,"file":"leaves-free-img-1.png"}
+[09:23:47 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":90}
+[09:23:47 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":129,"offset":90,"chunk_size":10}
+[09:23:47 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":90}
+[09:23:47 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5071,"file":"logo-leaf2-free-img-1.png"}
+[09:23:48 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5072,"file":"image-01-1.jpg"}
+[09:23:48 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5073,"file":"organic-products-hero-1.png"}
+[09:23:50 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5074,"file":"organic-products-hero-2.png"}
+[09:23:52 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5075,"file":"basil-leaf-2.png"}
+[09:23:52 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5076,"file":"cashew-butter-500.jpg"}
+[09:23:53 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5077,"file":"cashew-butter-500-1.jpg"}
+[09:23:53 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5078,"file":"organic-honey-1.jpg"}
+[09:23:54 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5079,"file":"orage-juice-kariz.jpg"}
+[09:23:55 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5080,"file":"orage-juice-kariz-1.jpg"}
+[09:23:55 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":100}
+[09:23:56 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":129,"offset":"100","chunk_size":10}
+[09:23:56 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":"100"}
+[09:23:56 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5081,"file":"edible-oil.jpg"}
+[09:23:56 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5082,"file":"edible-oil-1.jpg"}
+[09:23:57 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5083,"file":"eggs.jpg"}
+[09:23:57 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5085,"file":"coffee-asorted.jpg"}
+[09:23:58 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5086,"file":"coffee-asorted-1.jpg"}
+[09:23:59 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5087,"file":"pulses.jpg"}
+[09:23:59 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5088,"file":"pulses-1.jpg"}
+[09:24:00 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5089,"file":"wheat.jpg"}
+[09:24:01 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5090,"file":"wheat-1.jpg"}
+[09:24:01 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5091,"file":"diabetic-cookies-1.jpg"}
+[09:24:02 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":110}
+[09:24:02 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":129,"offset":110,"chunk_size":10}
+[09:24:02 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":110}
+[09:24:02 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5092,"file":"red-chillies.jpg"}
+[09:24:03 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5094,"file":"sanitizer.jpg"}
+[09:24:03 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5095,"file":"sanitizer-1.jpg"}
+[09:24:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5096,"file":"face-wash.jpg"}
+[09:24:04 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5097,"file":"face-wash-1.jpg"}
+[09:24:05 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5098,"file":"woocommerce-placeholder.png"}
+[09:24:06 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5099,"file":"woocommerce-placeholder-1.png"}
+[09:24:07 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5100,"file":"organic-store-social-1.jpg"}
+[09:24:08 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5102,"file":"leaves-free-img.png"}
+[09:24:08 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5169,"file":"logo-1-1.jpg"}
+[09:24:09 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":120}
+[09:24:09 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":129,"offset":120,"chunk_size":10}
+[09:24:09 UTC] [INFO] Processing CE image batch | Context: {"batch_size":9,"offset":120}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5171,"file":"logo-2-1.jpg"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5172,"file":"logo-3.jpg"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5173,"file":"logo-4.jpg"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5174,"file":"logo-5.jpg"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5514,"file":"default.png"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5515,"file":"product11-free-img-230x300-1.jpg"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5516,"file":"product13-free-img-230x300-1.jpg"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":5518,"file":"product17-free-img-230x300-1.jpg"}
+[09:24:09 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":6158,"file":"woocommerce-placeholder-7.webp"}
+[09:24:10 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":9,"errors":0,"new_offset":130}
+[09:24:10 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":129,"offset":130,"chunk_size":10}
+[09:24:10 UTC] [INFO] Processing CE image batch | Context: {"batch_size":0,"offset":130}
+[09:24:10 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":0,"errors":0,"new_offset":140}
+[09:24:10 UTC] [INFO] ---- Processing Images from Widgets -----
+[09:24:10 UTC] [INFO] Starting image import for URL: https://websitedemos.net/organic-shop-09/wp-content/uploads/sites/1548/2019/07/organic-store-white-logo.png
+[09:24:10 UTC] [INFO] Image already exists in media library (ID: 2478), skipping download
+[09:24:10 UTC] [INFO] ---- Processing Contact Form Mapping from Text Widgets -----
+[09:24:10 UTC] [INFO] ---- Processing batch process for Customizer start ----
+[09:24:10 UTC] [INFO] ---- Processing batch process for Customizer done ----
+[11:26:47 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:55:01 UTC] [INFO] Checking if plugin directory clearing is needed
+[13:55:08 UTC] [INFO] Checking if plugin directory clearing is needed
+[19:09:07 UTC] [INFO] Checking if plugin directory clearing is needed
