@@ -1,0 +1,20 @@
+[package]
+name = "dvirleviapp/wordpress-site" # שנה את זה לשם הפרויקט שלך ב-Wasmer
+version = "0.1.0"
+description = "WordPress site running on Wasmer Edge"
+
+# הגדרת נפח אחסון קבוע עבור קבצים שהמשתמש מעלה (כדי שלא יימחקו ב-Deploy הבא)
+[[app.storage]]
+volume = "wp-uploads"
+mount = "/app/wp-content/uploads"
+
+[app]
+kind = "http"
+
+# הגדרת פקודת ההרצה עבור וורדפרס
+[[app.handlers]]
+handler = "wp-wasmer"
+
+[app.env]
+# כאן ניתן להוסיף משתני סביבה נוספים במידת הצורך
+WP_ENV = "production"

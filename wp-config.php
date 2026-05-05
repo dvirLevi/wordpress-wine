@@ -22,19 +22,19 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 // בדיקה האם אנחנו רצים ב-Wasmer או בלוקאל
-if ( isset($_ENV['DB_NAME']) ) {
+// if ( isset($_ENV['DB_NAME']) ) {
     /** הגדרות עבור Wasmer Edge **/
     define( 'DB_NAME', $_ENV['DB_NAME'] );
     define( 'DB_USER', $_ENV['DB_USERNAME'] );
     define( 'DB_PASSWORD', $_ENV['DB_PASSWORD'] );
     define( 'DB_HOST', $_ENV['DB_HOST'] );
-} else {
+// } else {
     /** הגדרות עבור Local Sites המקומי **/
-    define( 'DB_NAME', 'local' );
-    define( 'DB_USER', 'root' );
-    define( 'DB_PASSWORD', 'root' );
-    define( 'DB_HOST', 'localhost' );
-}
+    // define( 'DB_NAME', 'local' );
+    // define( 'DB_USER', 'root' );
+    // define( 'DB_PASSWORD', 'root' );
+    // define( 'DB_HOST', 'localhost' );
+// }
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
